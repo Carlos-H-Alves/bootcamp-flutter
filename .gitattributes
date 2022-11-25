@@ -1,0 +1,8 @@
+*.dart linguist-language=Dart
+*.cpp linguist-detectable=false
+*.c++ linguist-detectable=false
+*.java linguist-detectable=false 
+*.dart linguist-language=Dart 
+*.dart linguist-detectable=true 
+android/* linguist-vendored 
+build/* linguist-vendored
