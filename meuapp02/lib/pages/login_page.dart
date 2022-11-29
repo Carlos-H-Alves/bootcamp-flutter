@@ -36,9 +36,7 @@ class _LoginPageState extends State<LoginPage> {
                       Expanded(child: Container()),
                       Expanded(
                         flex: 8,
-                        child: Image.network(
-                          "https://hermes.dio.me/assets/diome/logo.png",
-                        ),
+                        child: Image.asset('images/logo.png'),
                       ),
                       Expanded(child: Container()),
                     ],
